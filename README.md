@@ -32,8 +32,8 @@ There are some modifications to make Morse Code more keyboard-friendly:
 **NOTE:** Since the IP for Morse Code Typer is different from most IP adresses, saving the site as a bookmark or saving to the home screen is recommended.
 
 ## Running the source code
-Run `python app.py`. Using a virtual environment is recommended
+Download the source code and run `python app.py`.
 #### Dependencies
 - `flask` for the web server
 - `flask-socketio` to integrate socket.io
-- `keyboard` to emulate keyboard input.
+- `keyboard` to emulate keyboard input
