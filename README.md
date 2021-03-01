@@ -18,11 +18,11 @@ There are some modifications to make Morse Code more keyboard-friendly:
 - [X] Keyboard-friendly morse code translator
 
 ### Bugs/WIP
-- [] Adding a "quick-return" feature to automatically translate letters from Morse Code
-- [] Making an executable version of the program
-- [] Completing status feature of GUI
-- [] Adding punctuation characters
-- [] Calculating typing speed
+- [ ] Adding a "quick-return" feature to automatically translate letters from Morse Code
+- [ ] Making an executable version of the program
+- [ ] Completing status feature of GUI
+- [ ] Adding punctuation characters
+- [ ] Calculating typing speed
 
 # How to use
 1. After starting the app(source code or executable), go to IP:1791 on a mobile device. The IP can be found in the GUI menu.
