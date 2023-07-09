@@ -46,3 +46,4 @@ Download the source code and run `python app.py`.
 - `flask` for the web server
 - `flask-socketio` to integrate socket.io
 - `keyboard` to emulate keyboard input
+- Made with python 3.9
